@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 set -eu
 
 # Starts a local web-server that serves the contents of the `doc/` folder,
